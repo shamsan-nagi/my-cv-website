@@ -1,0 +1,3 @@
+# هذا ملف .nojekyll فارغ لتجاوز نظام Jekyll في GitHub Pages 
+
+الطريقة لتحويله إلى ملف .nojekyll
